@@ -1,5 +1,5 @@
 class StudentsController < ActionController::Base
-  def students
+  def /
     render "index"
   end
 end
